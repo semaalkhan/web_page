@@ -1,0 +1,35 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/1290052358/photo/dumbbells-on-wooden-floor-with-trx-straps-in-the-back.jpg?s=612x612&w=0&k=20&c=88WH8cngC6pkRQsaiE_S8TTC3AIIsQoU-L4ZiGUmN1Q=);
+    background-size: cover;
+}
+h1{
+    color: black;
+    font-size: 105px;
+    font-style: oblique;
+    font-weight: bolder;
+}
+p{
+    font-size: 22.5px;
+}
+#abc {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 33.5;
+    color: wheat;
+}
+#sky {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 43.5px;
+    color: orangered;
+    font-weight: bolder;
+}  
+#xyz {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 53.5px;
+    color: orangered;
+    font-weight: bolder;
+}
+a{
+    color: wheat;
+    size: 37px;
+}
+   
